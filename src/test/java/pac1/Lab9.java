@@ -2,7 +2,7 @@ package pac1;
 
 import java.util.Scanner;
 
-public class Example7 {
+public class Lab9 {
 
 	  
 	public static String stringOperation(String str, int choice) {

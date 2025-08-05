@@ -1,11 +1,11 @@
 package pac1;
 import java.util.Scanner;
-public class PersonMain {
+public class Lab6Main {
 	 
 		public static void main(String[] args) {
 			
 			Scanner sc = new Scanner(System.in);
-			Person p = new Person("Shaik","Jainabi",'F');
+			Lab6 p = new Lab6("Shaik","Jainabi",'F');
 			System.out.println("Person Details");
 			System.out.println("-----------------");
 			System.out.println("FirstName: " + p.getFisrtName());
